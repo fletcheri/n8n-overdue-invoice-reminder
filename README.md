@@ -26,6 +26,8 @@ The **Pro pack** adds:
 
 **Want the full Australian version?** The Overdue Invoice Reminder Pack (Pro) adds Xero sync, SMS, four stages, PAID replies and guideline-based contact limits. Store link coming soon; questions to aussieflows@mail.grokbot.com.
 
+[Notify me when Pro is out](mailto:aussieflows@mail.grokbot.com?subject=Notify%20me%20-%20Overdue%20Invoice%20Reminder%20Pack).
+
 ## More free AU workflows
 Other free n8n workflows for Australian small businesses (MIT, same setup style):
 - [Missed-Call Text-Back](https://github.com/fletcheri/n8n-missed-call-textback): text back missed callers in seconds
