@@ -26,7 +26,7 @@ The **Pro pack** adds:
 - Twilio or ClickSend, dry-run mode
 - debt-collection compliance notes, setup docs and test scripts
 
-**Want the full Australian version?** The Overdue Invoice Reminder Pack (Pro) adds Xero sync, SMS, four stages, PAID replies and guideline-based contact limits. Store link coming soon; questions to aussieflows@mail.grokbot.com.
+**Want the full Australian version?** The Overdue Invoice Reminder Pack (Pro) adds Xero sync, SMS, four stages, PAID replies and guideline-based contact limits. [Get the Pro pack on Polar](https://buy.polar.sh/polar_cl_2wIvINqWIGdHXLqokG1X5jRLGVkOcKKWtnbcy2APzxn); questions to aussieflows@mail.grokbot.com.
 
 [Notify me when Pro is out](mailto:aussieflows@mail.grokbot.com?subject=Notify%20me%20-%20Overdue%20Invoice%20Reminder%20Pack).
 
