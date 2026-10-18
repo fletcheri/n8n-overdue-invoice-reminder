@@ -8,6 +8,8 @@ One polite overdue-invoice email, sent automatically a week after the due date, 
 - One-click unsubscribe link and your business name in every email (Spam Act 2003)
 - Works with any SMTP mailbox; daily cap and optional webhook secret
 
+Tested end-to-end in n8n with simulated APIs (a local mock of the SMTP API); no live SMS or email provider was used in testing.
+
 ## Setup (about 15 minutes)
 1. n8n → **Import from file** → `workflow/overdue-invoice-reminder-lite.n8n.json`.
 2. Open **Decide** and set `businessName`, `payment`, `publicBaseUrl` (`https://<your-n8n>/webhook/invoice-lite`) and `email.from`.
